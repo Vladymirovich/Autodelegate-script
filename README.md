@@ -9,7 +9,7 @@
 ### Install shelljs --cli
     npm install shelljs --cli
 ### Download script
-    cd && wget -O autodelegate_name.js https://raw.githubusercontent.com/Vladymirovich/Autodelegate-script/main/autodelegate_name.js.js
+    cd && wget -O autodelegate_name.js https://raw.githubusercontent.com/Vladymirovich/Autodelegate-script/main/autodelegate_name.js
 ### Edit the file
     nano ~/autodelegate_<name of project>.js
 
