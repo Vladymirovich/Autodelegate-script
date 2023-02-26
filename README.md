@@ -1,6 +1,6 @@
 # autodelegate script
 
-##After you download the script, find it in root and rename for each project shold be separete script with project name (autodelegate_nibiru for example)
+## After you download the script, find it in root and rename for each project shold be separete script with project name (autodelegate_nibiru for example)
 
 ### Install screen
     apt-get install screen
