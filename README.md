@@ -11,7 +11,7 @@
 ### Download script
     cd && wget -O autodelegate_name.js https://raw.githubusercontent.com/Vladymirovich/Autodelegate-script/main/autodelegate_name.js
 ### Edit the file
-    nano ~/autodelegate_<name of project>.js
+    nano ~/autodelegate_name.js
 
 ### Set the variables
     // Enter your password
