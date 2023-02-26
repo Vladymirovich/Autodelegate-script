@@ -1,5 +1,7 @@
 # autodelegate script
 
+##After you download the script, find it in root and rename for each project shold be separete script with project name (autodelegate_nibiru for example)
+
 ### Install screen
     apt-get install screen
     curl -s https://raw.githubusercontent.com/Vladymirovich/Autodelegate-script/main/prepare-nodejs.sh | bash
@@ -36,13 +38,13 @@
     
     // Ctrl + o - save, enter, Ctrl + x - exit
     
-### Create screen session
-    screen -S autodelegate_<name of project>
+### Create screen session (in stead of name put the name of project)
+    screen -S autodelegate_name
     
-### Run the script
-    node autodelegate_<name of project>.js
+### Run the script (in stead of name put the name of project)
+    node autodelegate_name.js
     
     # CTRL + A + D - close the session
     
-### Return to the session
-    screen -x autodelegate_<name of project>
+### Return to the session (in stead of name put the name of project)
+    screen -x autodelegate_name
